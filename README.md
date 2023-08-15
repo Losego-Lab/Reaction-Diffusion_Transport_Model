@@ -6,4 +6,4 @@ The notebook "simulation_colab.ipynb" can also be run directly on [Google Colab]
 
 [1]:https://pubs.acs.org/doi/10.1021/acs.chemmater.1c01283
 [2]:https://github.com/yren48/Reaction_Diffusion_Model
-[3]:https://colab.research.google.com/github/BillHuang01/Reaction-Diffusion_Transport_Model/blob/main/simulation_colab.ipynb
+[3]:https://colab.research.google.com/github/BillHuang01/Reaction-Diffusion_Transport_Model/blob/main/simulation.ipynb
