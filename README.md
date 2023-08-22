@@ -1,8 +1,8 @@
-# Reaction-Diffusion Transport Model
+# Reaction-Diffusion Transport Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][3]
 
 This repository provides the python implementation of the reaction-diffusion model for the vapor phase infiltration (VPI) process in our paper "[Reaction−Diffusion Transport Model to Predict Precursor Uptake and Spatial Distribution in Vapor-Phase Infiltration Processes][1]". The MATLAB implementation is also available [here][2]. 
 
-***Please run "simulation.ipynb" on [Google Colab][3].***
+***To run the code via browser, please [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][3]***
 
 ### References
 
