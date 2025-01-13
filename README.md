@@ -27,9 +27,8 @@ And cite the code directly using:
 
 ```
 @code{huang2023vpi,
-  title={Reaction--diffusion transport model to predict precursor uptake and spatial distribution in vapor-phase infiltration processes},
-  author={Huang, Chaofan and Ren, Yi  and Joseph, V Roshan and Lively, Ryan P and Losego, Mark D},
   title={VPI Reaction-Diffusion Model Simulation Code},
+  author={Huang, Chaofan and Ren, Yi  and Joseph, V Roshan and Lively, Ryan P and Losego, Mark D},
   year={2023},
   url={https://github.com/Losego-Lab/Reaction-Diffusion_Transport_Model}
 }
